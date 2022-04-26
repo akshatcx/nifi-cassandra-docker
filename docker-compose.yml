@@ -19,7 +19,8 @@ services:
       - NIFI_ELECTION_MAX_WAIT=30 sec
     volumes:
             # - nifi-conf:/opt/nifi/nifi-current/conf
-      - ./scripts:/scripts/
+      - ./scripts:/opt/nifi/nifi-current/scripts
+      - ./data_transfer:/opt/nifi/nifi-current/data_transfer
 
 volumes:
   cassandra-data:
