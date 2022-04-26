@@ -10,7 +10,7 @@ DTYPES = {
     'object' : 'text'
 }
 
-# df = pd.read_json("../sample_files/monthly_data.json")
+# df = pd.read_json("../sample_files/monthly_json.json")
 df = pd.read_json(sys.stdin)
 tableName = str(sys.argv[1]).split('.')[0]
 
@@ -23,7 +23,6 @@ for column in df:
         maxUniqueColumn = column
 
 # create table
-print([str(df.dtypes[col]) for col in df.columns])
 print(f"CREATE TABLE IF NOT EXISTS {KEYSPACE}.{tableName} ({', '.join([col + ' ' + DTYPES[str(df.dtypes[col])] for col in df.columns])}, PRIMARY KEY ({maxUniqueColumn}));")
 
 # insert rows

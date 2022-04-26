@@ -6,11 +6,11 @@ KEYSPACE = 'dfs'
 DTYPES = {
     'float64': 'float',
     'string': 'text',
-    'date': 'timestamp',
+    'datetime64[ns]': 'timestamp',
     'object' : 'text'
 }
 
-# df = pd.read_csv("../sample_files/monthly_data.csv")
+# df = pd.read_csv("../sample_files/monthly_csv.csv")
 df = pd.read_csv(sys.stdin)
 tableName = str(sys.argv[1]).split('.')[0]
 
@@ -26,7 +26,6 @@ for column in df:
 print(f"CREATE TABLE IF NOT EXISTS {KEYSPACE}.{tableName} ({', '.join([col + ' ' + DTYPES[str(df.dtypes[col])] for col in df.columns])}, PRIMARY KEY ({maxUniqueColumn}));")
 
 # insert rows
-# INSERT INTO dfs.dummy_data (date , precip) VALUES ('1893-01-01' , 1.32);
 def get_values(row):
     values = []
     for col in df.columns:
