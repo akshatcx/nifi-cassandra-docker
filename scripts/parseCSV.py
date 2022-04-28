@@ -11,9 +11,9 @@ DTYPES = {
     'object' : 'text'
 }
 
-specialChars = '[?*()&-/ ]'
+specialChars = '[?*()&-/: ]'
 # df = pd.read_csv("../sample_files/Patient_Info.csv")
-df = pd.read_csv(sys.stdin)
+df = pd.read_csv(sys.stdin,on_bad_lines='skip')
 tableName = re.sub(specialChars ,'_' ,str(sys.argv[1]).split('.')[0]) 
 
 maxUniqueNumber = 0
