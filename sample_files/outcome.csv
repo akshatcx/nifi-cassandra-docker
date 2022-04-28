@@ -1,0 +1,488 @@
+site_id,patient_id,study_id,date_of_visit,lack_of_available_resources,receive_any_oxygenation_methods_during_this_hospitalization,any_documented_complication_during_hospitalization,is_patient_admitted_to_icu_during_this_hospitalization,total_icu_length_of_stay,final_icu_diagnosis,icu_discharge_status,hospital_length_of_stay__(discharged_or_died),hospital_discharge_status?,"if_died_in_icu/hospital,_is_any_of_this_was_done_and_documented?",medications_given_at_the_time_of_discharge,hospital_discharge_location,new_oxygen_requirement_at_discharge,is_patient_readmitted_with_covid19?,how_many_later_since_discharge?,28__mortality?,was_patient_pregnant?,any_pregnancy_related_complication,was_baby_delivered,method_of_delivery,treatment_before_delivery,treatment_after_delivery,neonatal_outcome_applies_(was_baby_born),fetal_death_or_stillbirth,birth_weight_(g),was_the_baby_infected?,premature_delivery,"if_yes,specify",was_baby_tested_for_mother's_acute_respiratory_infection,baby_test_results_are,testing_method,appropriate_development_for_age?,neonatal_death,comments
+Gandhi Hospital,,25258.0,30/06/2020,,No,,No,,,,2.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,,25257.0,30/06/2020,,,,,,,,8.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,,25254.0,30/06/2020,,No,,No,,,,3.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,,25238.0,30/06/2020,,No,,No,,,,3.0,Discharged,,Tab. Vitamin C; Tab. B complex; Tab. Calcium ;Tab. Paracetamol; Tab. Azee 500mg,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,,25237.0,30/06/2020,,Yes,,No,,,,2.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,,25227.0,30/06/2020,,No,,No,,,,5.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,,25222.0,30/06/2020,,No,,No,,,,7.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,,24813.0,26/06/2020,,No,,No,,,,5.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,,24490.0,19/06/2020,,No,,No,,,,3.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,,24489.0,19/06/2020,,No,,No,,,,3.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,,24488.0,19/06/2020,,No,,No,,,,3.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,,24475.0,19/06/2020,,No,,No,,,,4.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,,24438.0,19/06/2020,,No,,No,,,,3.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,,24437.0,19/06/2020,,No,,No,,,,3.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,,24435.0,19/06/2020,,No,,No,,,,1.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,,24875.0,25/06/2020,,No,,No,,,,5.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,,22037.0,31/05/2020,,Yes,,Yes (ICU),4.0,,,9.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,,21890.0,30/05/2020,,,,,,,,10.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,,21892.0,30/05/2020,,,,,,,,10.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,,21885.0,30/05/2020,,,,,,,,10.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,,21487.0,26/05/2020,,,,,,,,12.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14
+Gandhi hospital,,21845.0,30/05/2020,,,,,,,,10.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14
+Gandhi hospital,,22001.0,30/05/2020,,,,,,,,10.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,,21493.0,26/05/2020,,,,,,,,12.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14
+Gandhi hospital,,22043.0,31/05/2020,,,,,,,,9.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,,21488.0,26/05/2020,,,,,,,,12.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14
+Gandhi hospital,P1873,21406.0,24/05/2020,,,,,,,,11.0,Discharged,,Tab. B Complex OD;Tab. Vitamin C OD,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14
+Gandhi hospital,P2255,21828.0,29/05/2020,,,,,,,,11.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14
+Gandhi hospital,P1909,21449.0,25/05/2020,,,,,,,,12.0,Discharged,,Tab. B Complex OD;Tab. Vitamin C OD,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14
+Gandhi hospital,,21460.0,26/05/2020,,,,,,,,12.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14
+Gandhi hospital,P2412,21855.0,29/05/2020,,,,,,,,11.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14
+Gandhi hospital,P1931,21468.0,25/05/2020,,,,,,,,12.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14
+Gandhi hospital,,21466.0,26/05/2020,,,,,,,,12.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14
+Gandhi hospital,,22007.0,31/05/2020,,Yes,,Yes (ICU),2.0,Lrti,,10.0,Discharged,,Tab. B Complex OD;Tab. Vitamin C OD; Tab. MultiVitamin OD,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14
+Gandhi hospital,P1872,21401.0,24/05/2020,,,,ICCu,12.0,,,12.0,Discharged,,Tab. B Complex OD;Tab. Vitamin C OD,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14
+Gandhi hospital,P1914,21444.0,25/05/2020,,,,,,,,12.0,Discharged,,Tab. B Complex OD; Tab. Vitamin C OD,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14
+Gandhi hospital,P1897,21425.0,25/05/2020,,,,,,,,12.0,Discharged,,Tab. Vitamin C OD; Tab. MultiVitamin OD,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14
+Gandhi hospital,,21847.0,30/05/2020,,,,,,,,10.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14
+Gandhi hospital,P1880,21403.0,24/05/2020,,,,ICCu,12.0,,,12.0,Discharged,,Tab. B Complex OD;Tab. Vitamin C OD;,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14
+Gandhi hospital,,21981.0,30/05/2020,,,,ICU,5.0,,,10.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14
+Gandhi hospital,,21996.0,30/05/2020,,Yes,,Yes (ICU),4.0,LRtI,,10.0,Discharged,,Tab. Vitamin C OD; Tab. MultiVitamin OD;,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14
+Gandhi Hospital,P518,18766.0,2020-12-04 00:00:00,,No,,Yes (PICU),24.0,,Discharged,24.0,Discharged,,Syp. Multivitamin 8ml PO OD ; Tab. Paracetamol 3ml PO OD,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,"Advised Strict home quarantine for 14 , i.e., till 20-05-2020."
+Gandhi Hospital,,18774.0,2020-10-04 00:00:00,,No,,Yes (ICU),4.0,,Discharged,24.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Discharge Medication data
+Gandhi Hospital,,19106.0,2020-01-06 00:00:00,,No,,Yes (Ortho ICU),14.0,,Discharged,17.0,Discharged,,Tab. Multivitamin OD ; Tab. Vitamin C OD,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Shift to MNJ Hospital for further Management
+Gandhi hospital,P2245,21829.0,29/05/2020,,,,,,,,11.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14
+Gandhi hospital,,21465.0,25/05/2020,,,,,,,,12.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14
+Gandhi hospital,P1879,21405.0,24/05/2020,,,,,,,,12.0,Discharged,,Tab. B Complex OD;Tab. Vitamin C OD,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14
+Gandhi hospital,P1933,21480.0,26/05/2020,,,,,,,,16.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,,21453.0,25/05/2020,,,,,,,,12.0,Discharged,,Tab. B Complex OD;Tab. Vitamin C OD,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14
+Gandhi hospital,P2245,21829.0,29/05/2020,,,,,,,,11.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14
+Gandhi hospital,,21465.0,25/05/2020,,,,,,,,12.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14
+Gandhi hospital,P1879,21405.0,24/05/2020,,,,,,,,12.0,Discharged,,Tab. B Complex OD;Tab. Vitamin C OD,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14
+Gandhi hospital,P1933,21480.0,26/05/2020,,,,,,,,16.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,,21453.0,25/05/2020,,,,,,,,12.0,Discharged,,Tab. B Complex OD;Tab. Vitamin C OD,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14
+Gandhi Hospital,,18632.0,2020-07-04 00:00:00,,No,,,,,,17.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Discharge Medication
+Gandhi Hospital,P392,18633.0,2020-07-04 00:00:00,,No,,,,,,16.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Discharge Medication
+Gandhi Hospital,P393,18635.0,2020-07-04 00:00:00,,No,,,,,,21.0,Discharged,,Tab. B Complex ;Tab. Vitamin C,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Advised Strict home quarantine for 14 .
+Gandhi Hospital,,18638.0,2020-07-04 00:00:00,,No,,,,,,11.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Discharge Medication
+Gandhi Hospital,P395,18639.0,2020-07-04 00:00:00,,No,,,,,,33.0,Discharged,,Tab. B Complex ;Tab. Vitamin C,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,"Advised Strict home quarantine for 14 i.e., till 23-May-2020."
+Gandhi Hospital,P394,18640.0,2020-07-04 00:00:00,,No,,,,,,16.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Discharge Medication
+Gandhi Hospital,P389,18641.0,2020-07-04 00:00:00,,No,,,,,,12.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Discharge Medication
+Gandhi Hospital,P388,18642.0,2020-07-04 00:00:00,,No,,,,,,11.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Discharge Medication
+Gandhi Hospital,P382,18643.0,2020-07-04 00:00:00,,No,,,,,,34.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Discharge Medication
+Gandhi Hospital,,18646.0,2020-07-04 00:00:00,,No,,,,,,11.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Discharge Medication
+Gandhi Hospital,P368,18648.0,2020-05-04 00:00:00,,No,,,,,,24.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Discharge Medication
+Gandhi hospital,,21826.0,29/05/2020,,,,,,,,8.0,Discharged,,Tab. B Complex OD;Tab. Vitamin C OD,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14
+Gandhi hospital,,21827.0,29/05/2020,,,,,,,,11.0,Discharged,,Tab. B Complex OD;Tab. Vitamin C OD,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14
+Gandhi hospital,,21834.0,30/05/2020,,No,,Yes (PICU),10.0,,,10.0,Discharged,,Tab. Vitamin C OD;Tab. Multvitamin OD,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14
+Gandhi hospital,,21840.0,30/05/2020,,No,,Yes (PICU),7.0,,,10.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,,21842.0,30/05/2020,,,,,,,,10.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,P2444,21844.0,30/05/2020,,,,,,,,7.0,Discharged,,Tab. Amlodipine OD; Tab. Thyronorm OD;Tab. B Complex OD;Tab. Vitamin C OD,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14
+Gandhi hospital,,21850.0,30/05/2020,,,,,,,,10.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,,21851.0,29/05/2020,,,,,,,,8.0,Discharged,,Tab. B Complex OD;Tab. Vitamin C OD,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14
+Gandhi hospital,P2405,21852.0,29/05/2020,,,,,,,,11.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,P2399,21854.0,29/05/2020,,,,,,,,8.0,Discharged,,Tab. B Complex OD;Tab. Vitamin C OD,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14
+Gandhi hospital,P2406,21860.0,29/05/2020,,,,,,,,8.0,Discharged,,Tab. B Complex OD;Tab. Vitamin C OD,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14
+Gandhi hospital,,21861.0,29/05/2020,,,,,,,,8.0,Discharged,,Tab. B Complex OD;Tab. Vitamin C OD,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14
+Gandhi hospital,P2410,21862.0,29/05/2020,,,,,,,,8.0,Discharged,,Tab. B Complex OD;Tab. Vitamin C OD,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14
+Gandhi hospital,P2411,21863.0,29/05/2020,,,,,,,,8.0,Discharged,,Tab. B Complex OD;Tab. Vitamin C OD,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14
+Gandhi hospital,,21866.0,29/05/2020,,,,,,,,11.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,P2259,21868.0,29/05/2020,,,,,,,,11.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,P2273,21870.0,29/05/2020,,,,,,,,8.0,Discharged,,Tab. B Complex OD;Tab. Vitamin C OD,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14
+Gandhi hospital,,21871.0,29/05/2020,,,,,,,,8.0,Discharged,,Tab. B Complex OD;Tab. Vitamin C OD,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14
+Gandhi hospital,,21872.0,29/05/2020,,,,,,,,11.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,,21873.0,29/05/2020,,,,,,,,11.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,,21874.0,29/05/2020,,,,,,,,11.0,Discharged,,Tab. B Complex OD;Tab. Vitamin C OD,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14
+Gandhi hospital,,21875.0,29/05/2020,,,,,,,,11.0,Discharged,,Tab. B Complex BD;Tab. Vitamin C BD;,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14
+Gandhi hospital,,21876.0,29/05/2020,,,,,,,,11.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,2408.0,21877.0,29/05/2020,,,,,,,,8.0,Discharged,,Tab. B Complex OD;Tab. Vitamin C OD,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14
+Gandhi hospital,,21878.0,30/05/2020,,,,,,,,7.0,Discharged,,Tab. B Complex OD;Tab. Vitamin C OD; Tab. Azithromycin 250mg OD; Syp. Fluvir 5ml BD,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14
+Gandhi hospital,,21891.0,30/05/2020,,,,,,,,10.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,P2420,21893.0,30/05/2020,,,,,,,,7.0,Discharged,,Tab. B Complex OD;Tab. Vitamin C OD,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14
+Gandhi hospital,,21895.0,30/05/2020,,,,,,,,10.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,,21900.0,30/05/2020,,,,,,,,10.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,,22409.0,2020-05-06 00:00:00,,,,,,,,3.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,,21900.0,30/05/2020,,,,,,,,6.0,Discharged,,Tab. Augmentin 625 mg BD; Inj Paracetamol40mg OD; Tab. Multivitamin OD;Tab. B Complex OD,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Patient was shifted to other hospital.
+Gandhi hospital,,22021.0,31/05/2020,,Yes,,Yes (ICU),5.0,LRTI,,11.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,,22039.0,31/05/2020,,Yes,,Yes (ICU),4.0,URTI,,8.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,,22044.0,31/05/2020,,Yes,,Yes (ICU),4.0,LRTI,,9.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,,22050.0,31/05/2020,,Yes,,Yes (ICU),3.0,,,4.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,,22070.0,2020-01-06 00:00:00,,Yes,,Yes (ICU),3.0,Pneumonitis,,6.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,,22071.0,2020-01-06 00:00:00,,Yes,,Yes (ICU),3.0,UTI,,3.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,,22074.0,2020-01-06 00:00:00,,Yes,,Yes (ICU),3.0,Pneumonitis,,3.0,Discharged,,Inj. Piptaz 4.5gm Tid;Tab. Multivitamin OD;Inj. Pantoprazole 40mg OD;Tab. Fluvir 75mg BD;Tab. Azithromycin 500mg OD,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,,22088.0,2020-01-06 00:00:00,,Yes,,Yes (ICU),3.0,LRTI,,3.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,,22095.0,2020-01-06 00:00:00,,,,,,,,8.0,Discharged,,Tab. B Complex OD;Tab. Vitamin C OD; Tab. Ecosprin 75 mg BD; Tab. Clopitab 75mg BD;Tab. Orofer XT OD;Tab. Flavedon MR OD;Tab. Sorbitrate Sublingual SOS,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14
+Gandhi hospital,,22096.0,2020-01-06 00:00:00,,,,,,,,3.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,,22098.0,2020-01-06 00:00:00,,No,,Yes (ICU),3.0,Left lingula Pneumonitis,,3.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,,21831.0,29/05/2020,,,,,,,,11.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,P1895,21427.0,25/05/2020,,,,,,,,12.0,Discharged,,Tab. B Complex OD;Tab. Vitamin C OD,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14
+Gandhi hospital,,21821.0,31/05/2020,,,,,,,,11.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,,21454.0,25/05/2020,,,,,,,,12.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,P1049,20459.0,2020-01-05 00:00:00,,,,,,,,14.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,,21865.0,29/05/2020,,,,,,,,14.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,,21419.0,25/05/2020,,,,,,,,12.0,Discharged,,Tab. B Complex OD;Tab. Multvitamin OD,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14
+Gandhi hospital,,21402.0,24/05/2020,,,,,,,,12.0,Discharged,,Tab. B Complex OD;Tab. Vitamin C OD,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14
+Gandhi hospital,,21888.0,30/05/2020,,Yes,,Yes (ICU),8.0,,,11.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,,22011.0,31/05/2020,,Yes,,Yes (ICU),2.0,Pneumonitis,,9.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,,21820.0,31/05/2020,,,,,,,,10.0,Discharged,,Tab. B Complex OD;Tab. Vitamin C OD,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14
+Gandhi hospital,,21856.0,29/05/2020,,,,,,,,11.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14
+Gandhi hospital,,21935.0,29/05/2020,,Yes,,Yes (ICU),11.0,Pneumonitis,,11.0,Discharged,,Cap. Fluvir 75mg BD;Tab. Azithromycin 500mg OD;Tab. Paracetmol 500mg TID;Tab. B complex OD; Nebulizer asthalin 6th Hrly ; Tab. Pantoprazole 40mg OD,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14
+Gandhi hospital,P1916,21446.0,25/05/2020,,,,,,,,12.0,Discharged,,Tab. B Complex OD;Tab. Vitamin C OD,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14
+Gandhi hospital,,21801.0,31/05/2020,,,,,,,,9.0,Discharged,,Tab. B Complex OD;Tab. Vitamin C OD,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14
+Gandhi hospital,P1876,21417.0,25/05/2020,,,,,,,,12.0,Discharged,,Tab. B Complex OD;Tab. MultiVitamin OD;,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14
+Gandhi hospital,,21998.0,30/05/2020,,Yes,,Yes (ICU),7.0,URTI,,7.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,P2266,21867.0,29/05/2020,,,,,,,,8.0,Discharged,,Tab. B Complex OD;Tab. MultiVitamin OD;,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14
+Gandhi Hospital,P397,18649.0,2020-07-04 00:00:00,,No,,Yes (PICU),23.0,,Discharged,23.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Discharge Medication
+Gandhi Hospital,,18650.0,2020-07-04 00:00:00,,,,,,,,11.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Discharge Medication
+Gandhi Hospital,P396,18653.0,2020-07-04 00:00:00,,No,,Yes (PICU),23.0,,Discharged,23.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Discharge Medication
+Gandhi Hospital,P435,18654.0,2020-08-04 00:00:00,,,,,,,,16.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Discharge Medication
+Gandhi Hospital,P408,18655.0,2020-08-04 00:00:00,,,,,,,,16.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Discharge Medication
+Gandhi Hospital,P412,18656.0,2020-08-04 00:00:00,,,,,,,,16.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Discharge Medication
+Gandhi Hospital,P428,18657.0,2020-08-04 00:00:00,,No,,Yes (PICU),14.0,,Discharged,14.0,Discharged,,Syp. Multivitamin 5ml PO OD,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,"Advised Strict home quarantine for 14 , i.e., till 07-05-2020."
+Gandhi Hospital,P177,18663.0,2020-08-04 00:00:00,,No,,Yes (ICCU),3.0,,Discharged,24.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Discharge Medication
+Gandhi Hospital,P189,18667.0,2020-08-04 00:00:00,,,,,,,,36.0,Discharged,,Tab. B Complex ;Tab. Vitamin C,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,"Advised Strict home quarantine for 14 , i.e., till 27-05-2020."
+Gandhi Hospital,P192,18668.0,2020-08-04 00:00:00,,,,,,,,24.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Discharge Medication
+Gandhi Hospital,P2702,19007.0,2020-01-06 00:00:00,,NO,,,,,,8 Days,Discharged,,Tab. Multivitamin; Tab. Vitamin C,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,"Advised Strict home quarantine for 14 Days ie., till 22-06-2020."
+Gandhi Hospital,P2892,19010.0,2020-02-06 00:00:00,,NO,,,,,,7 Days,Discharged,,Tab. Telma-40mg ; Tab. B Complex,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Advised Strict Institutional quarantine for 14 Days.
+Gandhi Hospital,P2626,19011.0,2020-02-06 00:00:00,,NO,,,,,,7 Days,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Advised Strict home quarantine for 14 Days.
+Gandhi Hospital,P2891,19012.0,2020-02-06 00:00:00,,NO,,,,,,7 Days,Discharged,,Tab. Multivitamin; Tab. B Complex,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Advised Strict Institutional quarantine for 14 Days.
+Gandhi Hospital,P2887,19013.0,2020-02-06 00:00:00,,NO,,,,,,7 Days,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,"Advised Strict home quarantine for 14 Days ie., till 21-06-2020."
+Gandhi Hospital,P2817,19014.0,2020-02-06 00:00:00,,NO,,,,,,7 Days,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Advised Strict home quarantine for 14 Days.
+Gandhi Hospital,P2283,19015.0,2020-01-06 00:00:00,,NO,,,,,,8 Days,Discharged,,Tab. Multivitamin; Tab. Vitamin C,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,"Advised Strict home Isolation for 14 Days ie., till 22-06-2020."
+Gandhi Hospital,P2697,19016.0,2020-01-06 00:00:00,,NO,,,,,,8 Days,Discharged,,Tab. Multivitamin; Tab. Vitamin C,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,"Advised Strict home Isolation for 14 Days ie., till 22-06-2020."
+Gandhi Hospital,P2699,19017.0,2020-01-06 00:00:00,,NO,,,,,,8 Days,Discharged,,Tab. Multivitamin; Tab. B Complex; Tab. Vitamin C,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,"Advised Strict home Isolation for 14 Days ie., till 22-06-2020."
+Gandhi Hospital,P2331,19018.0,2020-01-06 00:00:00,,NO,,,,,,13 Days,Discharged,,Tab. Multivitamin; Tab. Vitamin C,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,"Advised Strict home Quareantine for 14 Days ie., till 27-06-2020."
+Gandhi Hospital,P2307,19019.0,2020-01-06 00:00:00,,NO,,,,,,11 Days,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,"Advised Strict home quarantine for 14 Days ie., till 22-06-2020."
+Gandhi Hospital,P2700,19020.0,2020-01-06 00:00:00,,NO,,,,,,8 Days,Discharged,,Tab. Multivitamin; Tab. Vitamin C,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,"Advised Strict home quarantine for 14 Days ie., till 22-06-2020."
+Gandhi Hospital,P2698,19021.0,2020-01-06 00:00:00,,NO,,,,,,8 Days,Discharged,,Tab. Multivitamin; Tab. Vitamin C,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,"Advised Strict home Isolation for 14 Days ie., till 22-06-2020."
+Gandhi Hospital,P2701,19022.0,2020-01-06 00:00:00,,NO,,,,,,8 Days,Discharged,,Tab. Multivitamin; Tab. Vitamin C,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,"Advised Strict home Isolation for 14 Days ie., till 22-06-2020."
+Gandhi Hospital,,19024.0,2020-02-06 00:00:00,,NO,,,,,,14 Days,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Advised Strict home quarantine for 14 Days.
+Gandhi Hospital,,19025.0,2020-01-06 00:00:00,,NO,,,,,,8 Days,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Advised Strict home quarantine for 14 Days.
+Gandhi Hospital,P2705,19026.0,2020-01-06 00:00:00,,NO,,,,,,8 Days,Discharged,,Tab. Multivitamin; Tab. Vitamin C,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,"Advised Strict home Isolation for 14 Days ie., till 22-06-2020."
+Gandhi Hospital,P2709,19027.0,2020-01-06 00:00:00,,NO,,,,,,8 Days,Discharged,,Tab. Multivitamin; Tab. Vitamin C,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,"Advised Strict home Isolation for 14 Days ie., till 22-06-2020."
+Gandhi Hospital,P2708,19028.0,2020-01-06 00:00:00,,NO,,,,,,8 Days,Discharged,,Tab. Multivitamin; Tab. Vitamin C,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,"Advised Strict home Isolation for 14 Days ie., till 22-06-2020."
+Gandhi Hospital,P2706,19029.0,2020-01-06 00:00:00,,NO,,,,,,8 Days,Discharged,,Tab. Multivitamin; Tab. Vitamin C,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,"Advised Strict home quarantine for 14 Days ie., till 22-06-2020."
+Gandhi Hospital,P2707,19030.0,2020-01-06 00:00:00,,NO,,,,,,8 Days,Discharged,,Tab. Multivitamin; Tab. Vitamin C,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,"Advised Strict home Isolation for 14 Days ie., till 22-06-2020."
+Gandhi Hospital,P2890,19033.0,2020-02-06 00:00:00,,NO,,,,,,7 Days,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,"Advised Strict home quarantine for 14 Days ie., till 21-06-2020."
+Gandhi Hospital,P2888,19034.0,2020-02-06 00:00:00,,NO,,,,,,7 Days,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Advised Strict home quarantine for 14 Days.
+Gandhi Hospital,,19094.0,2020-01-06 00:00:00,,NO,,,,,,8 Days,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,"Advised Strict home quarantine for 14 Days ie., till 21-06-2020."
+Gandhi Hospital,,19096.0,2020-01-06 00:00:00,,NO,,,,,,8 Days,Discharged,,Tab. Multivitamin; Tab. Vitamin C,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,"Advised Strict home quarantine for 14 Days ie., till 22-06-2020."
+Gandhi Hospital,,19098.0,2020-01-06 00:00:00,,NO,,,,,,10 Days,Discharged,,Tab. B Complex; Tab.Vitamin C,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,"Advised Strict home quarantine for 28 Days ie., till 22-06-2020."
+Gandhi Hospital,,19099.0,2020-01-06 00:00:00,,NO,,,,,,10 Days,Discharged,,Tab. B Complex; Tab.Vitamin C,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,"Advised Strict home quarantine for 28 Days ie., till 22-06-2020."
+Gandhi Hospital,P569,19501.0,14/04/2020,,NO,,,,,,19 Days,Discharged,,Tab. B Complex; Tab.Vitamin C,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Advised Strict home quarantine for 14 Days.
+Gandhi Hospital,P622,19503.0,14/04/2020,,NO,,,,,,16 Days,Discharged,,Tab. B Complex; Tab.Vitamin C,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Advised Strict home quarantine for 14 Days.
+Gandhi Hospital,P618,19504.0,14/04/2020,,NO,,,,,,17 Days,Discharged,,Tab. B Complex; Tab.Vitamin C,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Advised Strict home quarantine for 14 Days.
+Gandhi Hospital,P979,19895.0,23/04/2020,,NO,,Yes (Ortho ICU),3 Days,,Discharged,16 Days,Discharged,,Tab. Multivitamin; Tab. Vitamin C,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Advised Strict home quarantine for 14 Days.
+Gandhi hospital,P373,17581.0,2020-07-04 00:00:00,,No,,Yes (PICU),23 Days,Diahrroea,,23 Days,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,P372,17580.0,2020-07-04 00:00:00,,,,,,,,19 Days,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,P332,17596.0,2020-07-04 00:00:00,,,,,,,,23 Days,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,,17801.0,29/03/2020,,,,,,,,17 Days,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,P73,17807.0,30/03/2020,,,,Yes (PICU),13 Days,,,13 Days,Discharged,,,Gandhi Hospital,,,,,No,,,,,,,,,,,,,,,,,
+Gandhi hospital,P74,17838.0,30/03/2020,,,,Yes (PICU),5 Days,,,13 Days,Discharged,,,Gandhi Hospital,,,,,No,,,,,,,,,,,,,,,,,
+Gandhi hospital,P473,17871.0,31/03/2020,,,,,,,,27 Days,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,P117,17875.0,31/03/2020,,,,,,,,25 Days,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,P405,17878.0,31/03/2020,,,,,,,,18 Days,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,P104,17880.0,31/03/2020,,,,,,,,26 Days,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,,17885.0,31/03/2020,,,,,,,,26 Days,Discharged,,,Gandhi Hospital,,,,,No,,,,,,,,,,,,,,,,,
+Gandhi hospital,P137,17888.0,31/03/2020,,,,,,,,12 Days,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,P100,17901.0,31/03/2020,,,,,,,,23 Days,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,P148,18010.0,2020-03-04 00:00:00,,,,,,,,15 Days,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,P135,18012.0,2020-03-04 00:00:00,,,,,,,,25 Days,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,P126,18016.0,2020-02-04 00:00:00,,,,,,,,19 Days,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,P130,18017.0,2020-02-04 00:00:00,,,,,,,,22 Days,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,P129,18020.0,2020-02-04 00:00:00,,,,,,,,21 Days,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,P362,18026.0,2020-02-04 00:00:00,,,,,,,,17 Days,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,P147,18050.0,2020-03-04 00:00:00,,,,,,,,33 Days,Discharged,,Tab. B Complex OD; Tab. Vitamin C OD,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14 Days
+Gandhi hospital,P139,18064.0,2020-03-04 00:00:00,,,,,,,,15 Days,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,P175,18076.0,2020-03-04 00:00:00,,,,,,,,21 Days,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,P176,18090.0,2020-03-04 00:00:00,,,,,,,,27 Days,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14 Days
+Gandhi hospital,P193,18095.0,2020-03-04 00:00:00,,,,,,,,19 Days,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,,18104.0,2020-03-04 00:00:00,,No,,Yes (PICU),14 Days,,,14 Days,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,P169,18105.0,2020-03-04 00:00:00,,,,,,,,15 Days,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,P156,18107.0,2020-03-04 00:00:00,,,,,,,,15 Days,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,P157,18108.0,2020-03-04 00:00:00,,,,,,,,18 Days,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,,19105.0,2020-01-06 00:00:00,,Yes,,Yes (ICU),4 Days,Pneumonitis,,8 Days,Discharged,,Tab. Multvitamin OD; Tab. Vitamin C OD,Gandhi Hospital,,,,,No,,,,,,,,,,,,,,,,,Home quarantine for 14 Days
+Gandhi hospital,P646,19532.0,14/04/2020,,,,,,,,30 Days,Discharged,,Tab. B Complex OD; Tab. Vitamin C OD,Gandhi Hospital,,,,,Yes,,,,,,,,,,,,,,,,,Home quarantine for 14 Days
+Gandhi hospital,P708,19612.0,16/04/2020,,,,,,,,28 Days,Discharged,,Tab. B Complex OD; Tab. Vitamin C OD,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14 Days
+Gandhi hospital,P707,19613.0,16/04/2020,,,,,,,,28 Days,Discharged,,Tab. B Complex OD; Tab. Vitamin C OD,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14 Days
+Gandhi hospital,P738,19622.0,17/04/2020,,,,,,,,16 Days,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,P741,19623.0,17/04/2020,,,,,,,,27 Days,Discharged,,Tab. B Complex OD; Tab. Vitamin C OD,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14 Days
+Gandhi hospital,P722,19629.0,17/04/2020,,,,,,,,24 Days,Discharged,,Tab. B Complex OD; Tab. Vitamin C OD,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14 Days
+Gandhi hospital,P726,19633.0,17/04/2020,,,,,,,,20 Days,Discharged,,,Gandhi Hospital,,,,,No,,,,,,,,,,,,,,,,,
+Gandhi hospital,P729,19636.0,17/04/2020,,,,,,,,14 Days,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,P742,19641.0,17/04/2020,,,,,,,,27 Days,Discharged,,Tab. B Complex OD; Tab. Vitamin C OD,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14 Days
+Gandhi hospital,P750,19644.0,17/04/2020,,,,,,,,27 Days,Discharged,,Tab. B Complex OD; Tab. Vitamin C OD,Gandhi Hospital,,,,,No,,,,,,,,,,,,,,,,,Home quarantine for 14 Days
+Gandhi hospital,P589,19645.0,17/04/2020,,No,,Yes (PICU),25 Days,,,25 Days,Discharged,,Syp. Multivitamin 5ml OD; Syp Paracetamol 9ml SOS,Gandhi Hospital,,,,,No,,,,,,,,,,,,,,,,,Home quarantine for 14 Days
+Gandhi hospital,P739,19646.0,17/04/2020,,,,,,,,25 Days,Discharged,,Tab. Multvitamin OD; Tab. Vitamin C OD,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14 Days
+Gandhi hospital,P743,19647.0,17/04/2020,,,,,,,,24 Days,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,P740,19648.0,17/04/2020,,,,,,,,21 Days,Discharged,,Syp. Multivitamin 5ml OD,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14 Days
+Gandhi hospital,P753,19650.0,17/04/2020,,,,,,,,27 Days,Discharged,,Tab. B Complex OD; Tab. Vitamin C OD,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14 Days
+Gandhi hospital,P764,19652.0,17/04/2020,,,,,,,,27 Days,Discharged,,Tab. Augmentin 625mg BD;Tab. Azithromycin 500mg OD;Tab. B Complex OD;Tab. Vitamin C OD;,Gandhi Hospital,,,,,No,,,,,,,,,,,,,,,,,Home quarantine for 14 Days
+Gandhi hospital,P763,19653.0,17/04/2020,,,,,,,,21 Days,Discharged,,Tab. B Complex OD; Tab. Vitamin C OD,Gandhi Hospital,,,,,No,,,,,,,,,,,,,,,,,Home quarantine for 14 Days
+Gandhi hospital,P870,19660.0,17/04/2020,,Yes,,Yes (ICU),5 Days,,,27 Days,Discharged,,Tab Multvitamin OD; Tab Vitamin C OD;,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14 Days
+Gandhi hospital,P737,19665.0,17/04/2020,,,,,,,,19 Days,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14 Days
+Gandhi hospital,P746,19668.0,17/04/2020,,,,,,,,26 Days,Discharged,,Tab. B Complex OD; Tab. Vitamin C OD,Gandhi Hospital,,,,,No,,,,,,,,,,,,,,,,,Home quarantine for 14 Days
+Gandhi hospital,P756,19669.0,17/04/2020,,,,,,,,26 Days,Discharged,,Tab. B Complex OD; Tab. Vitamin C OD,Gandhi Hospital,,,,,No,,,,,,,,,,,,,,,,,Home quarantine for 14 Days
+Gandhi hospital,P747,19670.0,17/04/2020,,,,,,,,26 Days,Discharged,,Tab. B Complex OD; Tab. Vitamin C OD,Gandhi Hospital,,,,,No,,,,,,,,,,,,,,,,,Home quarantine for 14 Days
+Gandhi hospital,P777,19682.0,18/04/2020,,,,,,,,18 Days,Discharged,,Tab. B Complex OD; Tab. Vitamin C OD,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14 Days
+Gandhi hospital,P776,19684.0,18/04/2020,,,,,,,,26 Days,Discharged,,Tab. B Complex OD; Tab. Vitamin C OD,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14 Days
+Gandhi hospital,P785,19693.0,18/04/2020,,,,,,,,21 Days,Discharged,,Tab. B Complex OD; Tab. Vitamin C OD,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14 Days
+Gandhi hospital,P784,19694.0,18/04/2020,,,,,,,,26 Days,Discharged,,Tab. B Complex OD; Tab. Vitamin C OD,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14 Days
+Gandhi hospital,P803,19699.0,18/04/2020,,,,,,,,21 Days,Discharged,,Tab. B Complex OD; Tab. Vitamin C OD; Tab. Multvitamin OD,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14 Days
+Gandhi hospital,P836,19734.0,18/04/2020,,,,,,,,26 Days,Discharged,,Tab. B Complex OD; Tab. Vitamin C OD; Tab. Restyl 0.25mg SOS,Gandhi Hospital,,,,,No,,,,,,,,,,,,,,,,,Home quarantine for 14 Days
+Gandhi hospital,P831,19756.0,18/04/2020,,,,,,,,16 Days,Discharged,,,Gandhi Hospital,,,,,No,,,,,,,,,,,,,,,,,Home quarantine for 14 Days
+Gandhi hospital,P704,19605.0,16/04/2020,,,,,,,,26 Days,Discharged,,,Gandhi Hospital,,,,,No,,,,,,,,,,,,,,,,,
+Gandhi Hospital,P1186,19929.0,2020-09-05 00:00:00,,NO,,,,,,17 Days,Discharged,,Tab. Multivitamin; Tab. Vitamin C,Gandhi Hospital,,,,,Yes,,No,,,,,,,,,,,,,,No,"Advised Strict home quarantine for 14 Days i.e., till 08-June-2020."
+Gandhi Hospital,P1196,19933.0,2020-09-05 00:00:00,,NO,,,,,,15 Days,Discharged,,Tab. B Complex; Tab.Vitamin C,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,"Advised Strict home quarantine for 14 Days i.e., till 05-June-2020."
+Gandhi Hospital,P1200,19941.0,2020-10-05 00:00:00,,NO,,,,,,15 Days,Discharged,,Tab. Multivitamin; Tab. Vitamin C,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Advised Strict home quarantine for 14 Days.
+Gandhi Hospital,P1298,19947.0,2020-11-05 00:00:00,,NO,,,,,,7 Days,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Advised Strict home quarantine for 14 Days.
+Gandhi Hospital,P1302,19949.0,2020-11-05 00:00:00,,NO,,,,,,15 Days,Discharged,,Tab. B Complex; Tab.Vitamin C; Tab. Amlo 5mg,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,"Advised Strict home quarantine for 14 Days i.e., till 07-June-2020."
+Gandhi Hospital,P1303,19950.0,2020-11-05 00:00:00,,NO,,,,,,15 Days,Discharged,,Tab. B Complex; Tab.Vitamin C,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,"Advised Strict home quarantine for 14 Days i.e., till 07-June-2020."
+Gandhi Hospital,P1214,19951.0,2020-10-05 00:00:00,,NO,,,,,,15 Days,Discharged,,Tab. B Complex; Tab.Vitamin C,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Advised Strict home quarantine for 14 Days.
+Gandhi Hospital,P1203,19956.0,2020-10-05 00:00:00,,NO,,,,,,15 Days,Discharged,,Tab. Multivitamin; Tab. Vitamin C,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,"Advised Strict home quarantine for 14 Days i.e., till 07-June-2020."
+Gandhi Hospital,P1207,19959.0,2020-10-05 00:00:00,,NO,,,,,,15 Days,Discharged,,Tab. B Complex; Tab.Vitamin C,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,"Advised Strict home quarantine for 14 Days i.e., till 07-June-2020."
+Gandhi Hospital,P1206,19963.0,2020-10-05 00:00:00,,NO,,,,,,15 Days,Discharged,,Tab. Multivitamin; Tab. Vitamin C,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,"Advised Strict home quarantine for 14 Days i.e., till 07-June-2020."
+Gandhi Hospital,P1202,19964.0,2020-10-05 00:00:00,,NO,,,,,,15 Days,Discharged,,Tab. Multivitamin; Tab. Vitamin C,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,"Advised Strict home quarantine for 14 Days i.e., till 07-June-2020."
+Gandhi Hospital,P1222,19966.0,2020-10-05 00:00:00,,NO,,,,,,15 Days,Discharged,,Tab. Multivitamin; Tab. Vitamin C,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,"Advised Strict home quarantine for 14 Days i.e., till 07-June-2020."
+Gandhi Hospital,P1257,19971.0,2020-11-05 00:00:00,,NO,,,,,,15 Days,Discharged,,Tab. B Complex; Tab.Vitamin C,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,"Advised Strict home quarantine for 14 Days i.e., till 08-June-2020."
+Gandhi Hospital,P1249,19972.0,2020-11-05 00:00:00,,NO,,,,,,15 Days,Discharged,,Tab. Multivitamin; Tab. Vitamin C,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,"Advised Strict home quarantine for 14 Days i.e., till 08-June-2020."
+Gandhi Hospital,P1248,19973.0,2020-11-05 00:00:00,,NO,,,,,,15 Days,Discharged,,Tab. Multivitamin; Tab. Vitamin C,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,"Advised Strict home quarantine for 14 Days i.e., till 08-June-2020."
+Gandhi Hospital,P1263,19976.0,2020-11-05 00:00:00,,NO,,,,,,15 Days,Discharged,,Tab. Multivitamin; Tab. Vitamin C,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,"Advised Strict home quarantine for 14 Days i.e., till 08-June-2020."
+Gandhi Hospital,P8221,64807.0,29/10/2020,,,,,,,,2 Days (Died),DIED,YES,,Gandhi Hospital,,,,,Yes,Yes,Yes,,,,Yes,Fetal Death,3 KGS,,No,,No,,,,Yes,Both Mother (Patient) and Baby Died on 04-11-2020.
+Gandhi Hospital,P133,18122.0,2020-03-04 00:00:00,,NO,,,,,,21 Days,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Discharge Medication
+Gandhi Hospital,P1357,20640.0,13/05/2020,,,,,,,,14.0,Discharged,,Tab. Vitamin C,Ward,,,,,,,,,,,,,,,,,,,,,,advised home quarantine for 14
+,,,,,,,,,,,,,,Tab. B Complex,,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,P1365,20642.0,13/05/2020,,,,,,,,5.0,Discharged,,Syp. Multi Vitamin,Ward,,,,,,,,,,,,,,,,,,,,,,advised home quarantine for 14
+,,,,,,,,,,,,,,Syp. Vitamin D3,,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,P1332,20643.0,13/05/2020,,,,,,,,14.0,Discharged,,Tab. Vitamin C,Ward,,,,,,,,,,,,,,,,,,,,,,advised home quarantine for 14
+,,,,,,,,,,,,,,Tab. B Complex,,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,P1378,20644.0,13/05/2020,,,,,,,,14.0,Discharged,,Tab. Vitamin C,Ward,,,,,,,,,,,,,,,,,,,,,,advised home quarantine for 14
+,,,,,,,,,,,,,,Tab. B Complex,,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,P1379,20645.0,13/05/2020,,,,,,,,14.0,Discharged,,Tab. Vitamin C,Ward,,,,,,,,,,,,,,,,,,,,,,advised home quarantine for 14
+,,,,,,,,,,,,,,Tab. B Complex,,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,P1377,20646.0,13/05/2020,,,,,,,,14.0,Discharged,,Tab. Vitamin C,Ward,,,,,,,,,,,,,,,,,,,,,,advised home quarantine for 14
+,,,,,,,,,,,,,,Tab. B Complex,,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,P1376,20647.0,13/05/2020,,,,,,,,14.0,Discharged,,Tab. Vitamin C,Ward,,,,,,,,,,,,,,,,,,,,,,advised home quarantine for 14
+,,,,,,,,,,,,,,Tab. B Complex,,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,P1374,20648.0,13/05/2020,,,,,,,,14.0,Discharged,,Syp. Multi Vitamin,Ward,,,,,,,,,,,,,,,,,,,,,,advised home quarantine for 14
+Gandhi Hospital,P1375,20649.0,13/05/2020,,Yes,,,,,,14.0,Discharged,,Tab. Vitamin C,Ward,,,,,,,,,,,,,,,,,,,,,,advised home quarantine for 14
+,,,,,,,,,,,,,,Tab. B Complex,,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,,20650.0,13/05/2020,,,,,,,,14.0,Discharged,,Tab. Vitamin C,Ward,,,,,,,,,,,,,,,,,,,,,,advised home quarantine for 14
+,,,,,,,,,,,,,,Tab. B Complex,,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,P1383,20650_1,13/05/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,,20651.0,13/05/2020,,Yes,,Yes,30.0,,Discharge,30.0,Discharged,,Tab. Vitamin C,ICU,,,,,,,,,,,,,,,,,,,,,,advised home quarantine for 14
+,,,,,,,,,,,,,,Tab. B Complex,,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,,20652.0,13/05/2020,,,,,,,,30.0,Discharged,,Tab. Vitamin C,Ward,,,,,,,,,,,,,,,,,,,,,,advised home quarantine for 14
+,,,,,,,,,,,,,,Tab. B Complex,,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,,20653.0,13/05/2020,,Yes,,Yes,6.0,pneumonitis,Discharge,27.0,Discharged,,Tab. Vitamin C,Ward,,,,,,,,,,,,,,,,,,,,,,advised home quarantine for 14
+,,,,,,,,,,,,,,Tab. B Complex,,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,,20654.0,13/05/2020,,,,,,,,27.0,Discharged,,Tab. Vitamin C,Ward,,,,,,,,,,,,,,,,,,,,,,advised home quarantine for 14
+,,,,,,,,,,,,,,Tab. B Complex,,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,P1396,20655.0,13/05/2020,,,,,,,,14.0,Discharged,,Tab. Vitamin C,Ward,,,,,,,,,,,,,,,,,,,,,,advised home quarantine for 14
+,,,,,,,,,,,,,,Tab. B Complex,,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,P1415,20656.0,14/05/2020,,,,,,,,13.0,Discharged,,Tab. Vitamin C,Ward,,,,,,,,,,,,,,,,,,,,,,advised home quarantine for 14
+,,,,,,,,,,,,,,Tab. B Complex,,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,P1418,20657.0,14/05/2020,,,,,,,,13.0,Discharged,,Tab. Vitamin C,Ward,,,,,,,,,,,,,,,,,,,,,,advised home quarantine for 14
+,,,,,,,,,,,,,,Tab. B Complex,,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,P1417,20658.0,14/05/2020,,,,,,,,13.0,Discharged,,Tab. Vitamin C,Ward,,,,,,,,,,,,,,,,,,,,,,advised home quarantine for 14
+,,,,,,,,,,,,,,Tab. B Complex,,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,P1416,20659.0,14/05/2020,,,,,,,,13.0,Discharged,,Syp. Vitamin D3,Ward,,,,,,,,,,,,,,,,,,,,,,advised home quarantine for 14
+,,,,,,,,,,,,,,Syp. Multi Vitamin,,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,P1413,20660.0,14/05/2020,,,,,,,,14.0,Discharged,,Tab. Vitamin C,Ward,,,,,,,,,,,,,,,,,,,,,,advised home quarantine for 14
+,,,,,,,,,,,,,,Tab. B Complex,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,Tab. Buscopan,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,Tab. Pantoprazole 40mg,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,Syp. Movicol,,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,P1460,20664.0,14/05/2020,,,,,,,,12.0,Discharged,,Tab. Vitamin C,Ward,,,,,,,,,,,,,,,,,,,,,,advised home quarantine for 14
+,,,,,,,,,,,,,,Tab. B Complex,,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,P1414,20665.0,14/05/2020,,,,,,,,12.0,Discharged,,Tab. Vitamin C,Ward,,,,,,,,,,,,,,,,,,,,,,advised home quarantine for 14
+,,,,,,,,,,,,,,Tab. B Complex,,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,P1447,20666.0,14/05/2020,,,,,,,,13.0,Discharged,,Tab. Vitamin C,Ward,,,,,,,,,,,,,,,,,,,,,,advised home quarantine for 14
+,,,,,,,,,,,,,,Tab. B Complex,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,Tab. Amlong 5,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,Tab. Atorvas 40,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,Tab. Ecosprin 75,,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,P1448,20667.0,14/05/2020,,,,,,,,13.0,Discharged,,Tab. Vitamin C,Ward,,,,,,,,,,,,,,,,,,,,,,advised home quarantine for 14
+,,,,,,,,,,,,,,Tab. B Complex,,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,P1449,20668.0,14/05/2020,,,,,,,,13.0,Discharged,,Tab. Vitamin C,Ward,,,,,,,,,,,,,,,,,,,,,,advised home quarantine for 14
+,,,,,,,,,,,,,,Tab. B Complex,,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,P1450,20669.0,14/05/2020,,,,,,,,13.0,Discharged,,Tab. Vitamin C,Ward,,,,,,,,,,,,,,,,,,,,,,advised home quarantine for 14
+,,,,,,,,,,,,,,Tab. B Complex,,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,P1451,20670.0,14/05/2020,,,,,,,,13.0,Discharged,,Tab. Vitamin C,Ward,,,,,,,,,,,,,,,,,,,,,,advised home quarantine for 14
+,,,,,,,,,,,,,,Tab. B Complex,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,Tab. Metoprolol XL 50,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,Tab. Telma 40,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,Tab. Vinsorin M,,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,P1419,20671.0,14/05/2020,,,,,,,,13.0,Discharged,,Tab. Vitamin C,Ward,,,,,,,,,,,,,,,,,,,,,,advised home quarantine for 14
+,,,,,,,,,,,,,,Tab. B Complex,,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,P1429,20672.0,15/05/2020,,,,,,,,12.0,Discharged,,Tab. Vitamin C,Ward,,,,,,,,,,,,,,,,,,,,,,advised home quarantine for 14
+,,,,,,,,,,,,,,Tab. B Complex,,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,P1519,20771.0,16/05/2020,,,,,,,,12.0,Discharged,,"Advised Strict home quarantine for 14 . Medications prescribed Tab.Vitamin C OD;
+Tab.B. Complex OD (1-Unit/)",,,,,,,,,,,,,,,,,,,,,,,"Advised Strict home quarantine for 14 . Medications prescribed Tab.Vit-C-OD, Tab.BC-OD-(1-Unit/)"
+Gandhi Hospital,P1518,20772.0,16/05/2020,,,,,,,,12.0,Discharged,,"Advised home quarantine for 15 . Medications prescribed Tab.Vitamin C OD;
+Tab.B. Complex OD (2-Unit per *7 )",,,,,,,,,,,,,,,,,,,,,,,"Advised home quarantine for 15 . Medications prescribed Tab.Vit-C-OD, Tab.BC-OD-(2-Unit per *7 )"
+Gandhi Hospital,P1517,20773.0,16/05/2020,,,,,,,,12.0,Discharged,,"Advised home quarantine for 15 . Medications prescribed Tab.Vitamin C OD;
+Tab.B. Complex OD (1-Unit per *7 )",,,,,,,,,,,,,,,,,,,,,,,"Advised home quarantine for 15 . Medications prescribed Tab.Vit-C-OD, Tab.BC-OD-(1-Unit per *7 )"
+Gandhi Hospital,P1520,20774.0,16/05/2020,,,,,,,,12.0,Discharged,,Advised home quarantine for 14 .,,,,,,,,,,,,,,,,,,,,,,,Advised home quarantine for 14 .
+Gandhi Hospital,P1561,20775.0,16/05/2020,,,,,,,,12.0,Discharged,,Advised home quarantine for 14 .,,,,,,,,,,,,,,,,,,,,,,,Advised home quarantine for 14 .
+Gandhi Hospital,P1546,20776.0,16/05/2020,,,,,,,,12.0,Discharged,,Advised home quarantine for 14 .,,,,,,,,,,,,,,,,,,,,,,,Advised home quarantine for 14 .
+Gandhi Hospital,P1529,20777.0,16/05/2020,,,,,,,,12.0,Discharged,,"Advised Strict home quarantine for 14 . Medications prescribed Tab.Vitamin C OD;
+Tab.B. Complex OD (1-Unit/)",,,,,,,,,,,,,,,,,,,,,,,"Advised Strict home quarantine for 14 . Medications prescribed Tab.Vit-C-OD, Tab.BC-OD-(1-Unit/)"
+Gandhi Hospital,P1535,20778.0,16/05/2020,,,,,,,,12.0,Discharged,,Advised home quarantine for 14 .,,,,,,,,,,,,,,,,,,,,,,,Advised home quarantine for 14 .
+Gandhi Hospital,P1534,20779.0,16/05/2020,,,,,,,,12.0,Discharged,,Advised home quarantine for 14 .,,,,,,,,,,,,,,,,,,,,,,,Advised home quarantine for 14 .
+Gandhi Hospital,P1533,20780.0,16/05/2020,,,,,,,,12.0,Discharged,,Advised home quarantine for 14 .,,,,,,,,,,,,,,,,,,,,,,,Advised home quarantine for 14 .
+Gandhi Hospital,P1490,20781.0,16/05/2020,,,,,,,,12.0,Discharged,,Advised home quarantine for 14 .,,,,,,,,,,,,,,,,,,,,,,,Advised home quarantine for 14 .
+Gandhi Hospital,P1487,20782.0,16/05/2020,,,,Yes,3.0,,Discharged and shifted to Cubicals on19-May-2020,7.0,Aparna:  Discharged as LAMA,,,,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,P1488,20783.0,16/05/2020,,,,,,,,12.0,Discharged,,Advised home quarantine for 14 .,,,,,,,,,,,,,,,,,,,,,,,Advised home quarantine for 14 .
+Gandhi Hospital,P1536,20784.0,16/05/2020,,,,,,,,12.0,Discharged,,Advised home quarantine for 14 .,,,,,,,,,,,,,,,,,,,,,,,Advised home quarantine for 14 .
+Gandhi Hospital,P1512,20785.0,16/05/2020,,,,,,,,14.0,Discharged,,Advised home quarantine for 14 .,,,,,,,,,,,,,,,,,,,,,,,Advised home quarantine for 14 .
+Gandhi Hospital,,21230.0,26/05/2020,,,,,,,,12.0,Discharged,,Home quarantine for 2 weeks,,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 2 weeks
+Gandhi Hospital,,21239.0,26/05/2020,,,,,,,,12.0,Discharged,,Home quarantine for 2 weeks,,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 2 weeks
+Gandhi Hospital,,21240.0,26/05/2020,,,,,,,,12.0,Discharged,,Home quarantine for 2 weeks,,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 2 weeks
+Gandhi Hospital,,21244.0,26/05/2020,,,,,,,,12.0,Discharged,,Home quarantine for 2 weeks,,,,,,No,,,,,,,,,,,,,,,,,Home quarantine for 2 weeks
+Gandhi Hospital,,21245.0,26/05/2020,,,,Yes (Nicu),15.0,,Discharge,15.0,Discharged,,"Vitamin D3 Drops,Syp.Osiopan-D 2.5ml/P.O/T.D",,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,,21246.0,26/05/2020,,,,Yes (Nicu),15.0,,Discharge,15.0,Discharged,,"Vitamin D3 Drops;
+Syp.Osiopan-D 2.5ml/P.O/T.D",,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,,21250.0,27/05/2020,,,,,,,,12.0,Discharged,,,,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 2 weeks
+Gandhi Hospital,P2113,21251.0,27/05/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,,21266.0,27/05/2020,,,,,,,,11.0,Discharged,,LAMA,,,,,,,,,,,,,,,,,,,,,,,LAMA
+Gandhi Hospital,,21277.0,27/05/2020,,Yes,,Yes,25.0,pneumonitis,Discharge,27.0,Discharged,,,,,,,,No,,,,,,,,,,,,,,,,,Home quarantine for 2 weeks
+Gandhi Hospital,,21283.0,27/05/2020,,Yes,,Yes,8.0,pneumonitis,Discharge,13.0,Discharged,,,,,,,,No,,,,,,,,,,,,,,,,,Home quarantine for 2 weeks
+Gandhi Hospital,P1785,21301.0,22/05/2020,,,,,,,,12.0,Discharged,,Tab.B.complex; Tab.Vitamin C (1-Unit/) for 2 weeks,,,,,,No,,,,,,,,,,,,,,,,,Home quarantine for 2 weeks
+Gandhi Hospital,P1783,21303.0,22/05/2020,,,,,,,,12.0,Discharged,,Tab.B.complex (1-Unit/) for 2 weeks,,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 2 weeks
+Gandhi Hospital,P1797,21304.0,23/05/2020,,,,,,,,11.0,Discharged,,"Tab.B.complex;
+Tab.Vitamin C (1-Unit/) for 2 weeks",,,,,,No,,,,,,,,,,,,,,,,,Home quarantine for 2 weeks
+Gandhi Hospital,P1784,21306.0,23/05/2020,,,,,,,,13.0,Discharged,,"Tab.B.complex;
+Tab.Vitamin C (1-Unit/) for 2 weeks",,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 2 weeks
+Gandhi Hospital,P1816,21307.0,23/05/2020,,,,,,,,11.0,Discharged,,"Tab.B.complex;
+Tab.Vitamin C (1-Unit/) for 2 weeks",,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 2 weeks
+Gandhi Hospital,P1797,21308.0,23/05/2020,,,,,,,,13.0,Discharged,,,,,,,,No,,,,,,,,,,,,,,,,,Home quarantine for 2 weeks
+Gandhi Hospital,P1757,21309.0,23/05/2020,,,,,,,,12.0,Discharged,,,,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 2 weeks
+Gandhi Hospital,P1794,21310.0,23/05/2020,,,,,,,,11.0,Discharged,,Tab.B.complex; Tab.Vitamin C (1-Unit/) for 2 weeks,,,,,,No,,,,,,,,,,,,,,,,,Home quarantine for 2 weeks
+Gandhi Hospital,P1788,21312.0,23/05/2020,,,,,,,,11.0,Discharged,,"Tab.B.complex; Tab.Vitamin C;
+Tab.Amlodipine 5mg (1-Unit/)",,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 2 weeks
+Gandhi Hospital,P1772,21313.0,23/05/2020,,,,,,,,11.0,Discharged,,Tab.B.complex; Tab.Vitamin C (1-Unit/) for 2 weeks,,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 2 weeks
+Gandhi Hospital,P1754,21314.0,23/05/2020,,,,,,,,11.0,Discharged,,"Tab.B.complex; Tab.Vitamin C;
+Tab.chlorpheniramine (1-Unit/) for 2 weeks",,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 2 weeks
+Gandhi Hospital,P1755,21315.0,23/05/2020,,,,,,,,11.0,Discharged,,Tab.B.complex; Tab.Vitamin C (1-Unit/) for 2 weeks,,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 2 weeks
+Gandhi Hospital,P1756,21316.0,23/05/2020,,,,,,,,11.0,Discharged,,Tab.B.complex; Tab.Vitamin C (1-Unit/) for 2 weeks,,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 2 weeks
+Gandhi Hospital,P1771,21317.0,23/05/2020,,,,,,,,12.0,Discharged,,Tab.B.complex; Tab.Vitamin C (1-Unit/) for 2 weeks,,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 2 weeks
+Gandhi Hospital,P1779,21318.0,23/05/2020,,,,,,,,11.0,Discharged,,"Inj.Human insulin RegularS.C,Tab.Metride O.D, Tab.B.complex; Tab.Vitamin C (1-Unit/)",,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 2 weeks
+Gandhi Hospital,P1790,21319.0,23/05/2020,,,,,,,,11.0,Discharged,,Tab.B.complex; Tab.Vitamin C (1-Unit/) for 2 weeks,,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 2 weeks
+Gandhi Hospital,P1791,21321.0,23/05/2020,,,,,,,,11.0,Discharged,,Tab.B.complex; Tab.Vitamin C (1-Unit/) for 2 weeks,,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 2 weeks
+Gandhi Hospital,P1750,21322.0,23/05/2020,,,,,,,,11.0,Discharged,,Tab.B.complex; Tab.Vitamin C (1-Unit/) for 2 weeks,,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 2 weeks
+Gandhi Hospital,P1751,21323.0,23/05/2020,,,,,,,,11.0,Discharged,,Tab.B.complex; Tab.Vitamin C (1-Unit/) for 2 weeks,,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 2 weeks
+Gandhi Hospital,P1752,21324.0,23/05/2020,,,,,,,,11.0,Discharged,,Tab.B.complex; Tab.Vitamin C (1-Unit/) for 2 weeks,,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 2 weeks
+Gandhi Hospital,P1749,21325.0,23/05/2020,,,,,,,,11.0,Discharged,,Tab.B.complex; Tab.Vitamin C (1-Unit/) for 2 weeks,,,,,,No,,,,,,,,,,,,,,,,,Home quarantine for 2 weeks
+Gandhi Hospital,P1747,21327.0,23/05/2020,,,,,,,,12.0,Discharged,,Tab.B.complex; Tab.Vitamin C (1-Unit/) for 2 weeks,,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 2 weeks
+Gandhi Hospital,P1744,21328.0,23/05/2020,,,,,,,,11.0,Discharged,,Tab.B.complex; Tab.Vitamin C (1-Unit/) for 2 weeks,,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 2 weeks
+Gandhi Hospital,P1745,21329.0,23/05/2020,,,,,,,,11.0,Discharged,,Tab.B.complex; Tab.Vitamin C (1-Unit/) for 2 weeks,,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 2 weeks
+Gandhi Hospital,P1746,21330.0,23/05/2020,,,,,,,,11.0,Discharged,,Inj.Human insulin RegularS.CTab.B.complex; Tab.Vitamin C (1-Unit/) for 2 weeks,,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 2 weeks
+Gandhi Hospital,P1806,21331.0,23/05/2020,,,,,,,,13.0,Discharged,,Tab.B.complex; Tab.Vitamin C (1-Unit/) for 2 weeks,,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 2 weeks
+Gandhi Hospital,P1805,21332.0,23/05/2020,,,,,,,,12.0,Discharged,,Tab.B.complex; Tab.Vitamin C (1-Unit/) for 2 weeks,,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 2 weeks
+Gandhi Hospital,P1804,21333.0,23/05/2020,,,,,,,,3.0,Discharged,,shifted to Apollo Hospital,,,,,,No,,,,,,,,,,,,,,,,,shifted to Apollo Hospital
+Gandhi Hospital,P1801,21334.0,23/05/2020,,,,,,,,12.0,Discharged,,Tab.B.complex; Tab.Vitamin C (1-Unit/) for 2 weeks,,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 2 weeks
+Gandhi Hospital,P1793,21335.0,23/05/2020,,,,,,,,12.0,Discharged,,Tab.B.complex; Tab.Vitamin C (1-Unit/) for 2 weeks,,,,,,No,,,,,,,,,,,,,,,,,Home quarantine for 2 weeks
+Gandhi Hospital,P1859,21335_1,24/05/2020,,,,,,,,12.0,Discharged,,Tab.B.complex; Tab.Vitamin C (1-Unit/) for 2 weeks,,,,,,No,,,,,,,,,,,,,,,,,Home quarantine for 2 weeks
+Gandhi Hospital,P1800,21336.0,23/05/2020,,,,,,,,12.0,Discharged,,Tab.B.complex; Tab.Vitamin C (1-Unit/) for 2 weeks,,,,,,No,,,,,,,,,,,,,,,,,Home quarantine for 2 weeks
+Gandhi Hospital,P1803,21337.0,23/05/2020,,,,,,,,12.0,Discharged,,Tab.B.complex; Tab.Vitamin C (1-Unit/) for 2 weeks,,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 2 weeks
+Gandhi Hospital,P1802,21338.0,23/05/2020,,,,,,,,12.0,Discharged,,Tab.B.complex; Tab.Vitamin C (1-Unit/) for 2 weeks,,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 2 weeks
+Gandhi Hospital,P1798,21339.0,23/05/2020,,,,,,,,12.0,Discharged,,Tab.B.complex; Tab.Vitamin C (1-Unit/) for 2 weeks,,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 2 weeks
+Gandhi Hospital,P1815,21340.0,23/05/2020,,,,,,,,12.0,Discharged,,Tab.B.complex; Tab.Vitamin C (1-Unit/) for 2 weeks,,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 2 weeks
+Gandhi Hospital,P1807,21341.0,23/05/2020,,,,,,,,12.0,Discharged,,Tab.B.complex; Tab.Vitamin C (1-Unit/) for 2 weeks,,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 2 weeks
+Gandhi Hospital,P1774,21342.0,23/05/2020,,,,,,,,12.0,Discharged,,Tab.B.complex; Tab.Vitamin C (1-Unit/) for 2 weeks,,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 2 weeks
+Gandhi Hospital,P1081,21344.0,23/05/2020,,,,,,,,8.0,Discharged,,,,,,,,No,,,,,,,,,,,,,,,,,Home quarantine for 2 weeks
+Gandhi Hospital,P1067,21345.0,23/05/2020,,,,,,,,8.0,Discharged,,,,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 2 weeks
+Gandhi Hospital,P1513,20786.0,16/05/2020,,,,,,,,15.0,Discharged,,Advised home quarantine for 14 .,,,,,,,,,,,,,,,,,,,,,,,Advised home quarantine for 14 .
+Gandhi Hospital,,20787.0,16/05/2020,,,,,,,,23.0,Discharged,,Advised Strict home quarantine for 15 . Medications prescribed Tab.B.complex; Tab.Vitamin C (1-Unit/),,,,,,,,,,,,,,,,,,,,,,,"Advised Strict home quarantine for 15 . Medications prescribed Tab.Vit-C-OD, Tab.BC-OD-(1-Unit/)"
+Gandhi Hospital,P1514,20788.0,16/05/2020,,,,,,,,12.0,Discharged,,Advised Strict home quarantine for 15 . Medications prescribed Tab.B.complex; Tab.Vitamin C (1-Unit/),,,,,,,,,,,,,,,,,,,,,,,"Advised Strict home quarantine for 15 . Medications prescribed Tab.Vit-C-OD, Tab.BC-OD-(1-Unit/)"
+Gandhi Hospital,P1495,20789.0,16/05/2020,,,,,,,,12.0,Discharged,,Advised Strict home quarantine for 15 . Medications prescribed Tab.B.complex; Tab.Vitamin C (1-Unit/),,,,,,,,,,,,,,,,,,,,,,,"Advised Strict home quarantine for 15 . Medications prescribed Tab.Vit-C-OD, Tab.BC-OD-(1-Unit/)"
+Gandhi Hospital,P1516,20790.0,16/05/2020,,,,,,,,12.0,Discharged,,Advised home quarantine for 14 .,,,,,,,,,,,,,,,,,,,,,,,Advised home quarantine for 14 .
+Gandhi Hospital,P1496,20792.0,16/05/2020,,,,,,,,12.0,Discharged,,Advised home quarantine for 14 .,,,,,,,,,,,,,,,,,,,,,,,Advised home quarantine for 14 .
+Gandhi Hospital,,20793.0,17/05/2020,,,,,,,,12.0,Discharged,,Advised home quarantine for 14 .,,,,,,,,,,,,,,,,,,,,,,,Advised home quarantine for 14 .
+Gandhi Hospital,P1548,20794.0,17/05/2020,,,,,,,,12.0,Discharged,,Advised home quarantine for 14 .,,,,,,,,,,,,,,,,,,,,,,,Advised home quarantine for 14 .
+Gandhi Hospital,P1551,20795.0,17/05/2020,,,,,,,,12.0,Discharged,,Advised home quarantine for 14 .,,,,,,,,,,,,,,,,,,,,,,,Advised home quarantine for 14 .
+Gandhi Hospital,P1552,20796.0,17/05/2020,,,,,,,,12.0,Discharged,,Advised home quarantine for 14 .,,,,,,,,,,,,,,,,,,,,,,,Advised home quarantine for 14 .
+Gandhi Hospital,P1428,20673.0,15/05/2020,,,,,,,,12.0,Discharged,,Tab. Vitamin C,Ward,,,,,,,,,,,,,,,,,,,,,,advised home quarantine for 14
+,,,,,,,,,,,,,,Tab. B Complex,,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,P1426,20674.0,15/05/2020,,,,,,,,12.0,Discharged,,Tab. Vitamin C,Ward,,,,,,,,,,,,,,,,,,,,,,advised home quarantine for 14
+,,,,,,,,,,,,,,Tab. B Complex,,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,P1427,20675.0,15/05/2020,,,,,,,,12.0,Discharged,,Tab. Vitamin C,Ward,,,,,,,,,,,,,,,,,,,,,,advised home quarantine for 14
+,,,,,,,,,,,,,,Tab. B Complex,,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,P1424,20676.0,15/05/2020,,,,,,,,12.0,Discharged,,Syp. Multi Vitamin,Ward,,,,,,,,,,,,,,,,,,,,,,advised home quarantine for 14
+Gandhi Hospital,P1425,20677.0,15/05/2020,,,,,,,,12.0,Discharged,,Tab. Vitamin C,Ward,,,,,,,,,,,,,,,,,,,,,,advised home quarantine for 14
+,,,,,,,,,,,,,,Tab. B Complex,,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,P1434,20678.0,15/05/2020,,,,,,,,12.0,Discharged,,Tab. Vitamin C,Ward,,,,,,,,,,,,,,,,,,,,,,advised home quarantine for 14
+,,,,,,,,,,,,,,Tab. B Complex,,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,P1433,20679.0,15/05/2020,,,,,,,,12.0,Discharged,,Tab. Vitamin C,Ward,,,,,,,,,,,,,,,,,,,,,,advised home quarantine for 14
+,,,,,,,,,,,,,,Tab. B Complex,,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,P1549,20797.0,17/05/2020,,,,,,,,12.0,Discharged,,"Advised home quarantine for 28 , Medication prescribed Syp.Multi Vitamin (5 ml/).",,,,,,,,,,,,,,,,,,,,,,,"Advised home quarantine for 28 , Medication prescribed Syp.MVT (5 ml/)."
+Gandhi Hospital,P1554,20798.0,17/05/2020,,,,,,,,12.0,Discharged,,Advised home quarantine for 14 .,,,,,,,,,,,,,,,,,,,,,,,Advised home quarantine for 14 .
+Gandhi Hospital,P1550,20799.0,17/05/2020,,,,,,,,12.0,Discharged,,Advised home quarantine for 14 .,,,,,,,,,,,,,,,,,,,,,,,Advised home quarantine for 14 .
+Gandhi Hospital,P1555,20800.0,17/05/2020,,,,,,,,12.0,Discharged,,Advised home quarantine for 14 .,,,,,,,,,,,,,,,,,,,,,,,Advised home quarantine for 14 .
+Gandhi Hospital,P1563,20801.0,17/05/2020,,,,,,,,12.0,Discharged,,Advised home quarantine for 14 .,,,,,,Yes,,NO,,,,NO,,,,NO,,,,,13W 2D,,Advised home quarantine for 14 .
+Gandhi Hospital,P1559,20802.0,17/05/2020,,,,,,,,12.0,Discharged,,Advised home quarantine for 14 .,,,,,,,,,,,,,,,,,,,,,,,Advised home quarantine for 14 .
+Gandhi Hospital,P1556,20803.0,17/05/2020,,,,,,,,12.0,Discharged,,Advised home quarantine for 14 .,,,,,,,,,,,,,,,,,,,,,,,Advised home quarantine for 14 .
+Gandhi Hospital,P1557,20804.0,17/05/2020,,,,,,,,12.0,Discharged,,Advised home quarantine for 14 .,,,,,,,,,,,,,,,,,,,,,,,Advised home quarantine for 14 .
+Gandhi Hospital,P1544,20805.0,17/05/2020,,,,,,,,12.0,Discharged,,Advised home quarantine for 14 .,,,,,,,,,,,,,,,,,,,,,,,Advised home quarantine for 14 .
+Gandhi Hospital,P1547,20806.0,17/05/2020,,,,,,,,12.0,Discharged,,Advised home quarantine for 14 .,,,,,,,,,,,,,,,,,,,,,,,Advised home quarantine for 14 .
+Gandhi Hospital,P1812,21347.0,23/05/2020,,,,,,,,11.0,Discharged,,,,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 2 weeks
+Gandhi Hospital,P1163,120100.0,2020-09-05 00:00:00,,,,,,,,,,,,,,,,,No,,,,,,,,,,,,,,,,,
+Gandhi Hospital,P1162,120099.0,2020-08-05 00:00:00,,,,,,,,15.0,Discharged,,Tab.B.complex; Tab.Vitamin C (1-Unit/) for 2 weeks,,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 2 weeks
+Gandhi Hospital,P1159,120098.0,2020-08-05 00:00:00,,,,Yes (PICU),15.0,,,15.0,Discharged,,Tab.B.complex 1-Unit/,,,,,,No,,,,,,,,,,,,,,,,,Home quarantine for 1weeks
+Gandhi Hospital,P1161,120097.0,2020-08-05 00:00:00,,,,Yes (PICU),15.0,,,15.0,Discharged,,Syp.Multi Vitamin 5ml/P.o/O.D for 1week,,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 1weeks
+Gandhi Hospital,P1158,120096.0,2020-08-05 00:00:00,,,,Yes (PICU),15.0,,,15.0,Discharged,,,,,,,,No,,,,,,,,,,,,,,,,,Home quarantine for 2weeks
+Gandhi Hospital,P1157,120095.0,2020-08-05 00:00:00,,,,Yes (PICU),15.0,,,15.0,Discharged,,,,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 2weeks
+Gandhi Hospital,P1160,120034.0,2020-08-05 00:00:00,,,,Yes (PICU),15.0,,,15.0,Discharged,,,,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 2weeks
+Gandhi Hospital,P1156,120093.0,2020-08-05 00:00:00,,Yes,,,,,,15.0,Discharged,,Syp.Grilinctus 5ml Tab.B.complex; Tab.Vitamin C (1-Unit/) for 2 weeks,,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 2weeks
+Gandhi Hospital,P1155,120092.0,2020-08-05 00:00:00,,,,,,,,15.0,Discharged,,Tab.B.complex; Tab.Vitamin C (1-Unit/) for 2 weeks,,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 2weeks
+Gandhi Hospital,P1830,21367.0,23/05/2020,,,,,,,,12.0,Discharged,,Advised Home Quarentine for 14 .,,,,,,,,,,,,,,,,,,,,,,,Advised Home Quarentine for 14 .
+Gandhi Hospital,P1318,20623.0,13/05/2020,,,,,,,,15.0,Discharged,,Tab. Vitamin C,Ward,,,,,,,,,,,,,,,,,,,,,,advised home quarantine for 14
+,,,,,,,,,,,,,,Tab. B Complex,,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,P1328,20625.0,13/05/2020,,,,,,,,15.0,Discharged,,Tab. Vitamin C,Ward,,,,,,,,,,,,,,,,,,,,,,advised home quarantine for 14
+,,,,,,,,,,,,,,Tab. B Complex,,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,P1326,20626.0,13/05/2020,,,,,,,,15.0,Discharged,,Tab. Vitamin C,Ward,,,,,,,,,,,,,,,,,,,,,,advised home quarantine for 14
+,,,,,,,,,,,,,,Tab. B Complex,,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,P1325,20627.0,13/05/2020,,,,,,,,15.0,Discharged,,Tab. Vitamin C,Ward,,,,,,,,,,,,,,,,,,,,,,advised home quarantine for 14
+,,,,,,,,,,,,,,Tab. B Complex,,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,P1320,20628.0,13/05/2020,,,,,,,,15.0,Discharged,,Tab. Vitamin C,Ward,,,,,,,,,,,,,,,,,,,,,,advised home quarantine for 14
+,,,,,,,,,,,,,,Tab. B Complex,,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,P1321,20629.0,13/05/2020,,,,,,,,15.0,Discharged,,Tab. Vitamin C,Ward,,,,,,,,,,,,,,,,,,,,,,advised home quarantine for 14
+,,,,,,,,,,,,,,Tab. B Complex,,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,P1324,20630.0,13/05/2020,,,,,,,,15.0,Discharged,,Tab. Vitamin C,Ward,,,,,,,,,,,,,,,,,,,,,,advised home quarantine for 14
+,,,,,,,,,,,,,,Tab. B Complex,,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,P1323,20631.0,13/05/2020,,,,,,,,15.0,Discharged,,Tab. Vitamin C,Ward,,,,,,,,,,,,,,,,,,,,,,advised home quarantine for 14
+,,,,,,,,,,,,,,Tab. B Complex,,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,P1362,20632.0,13/05/2020,,,,,,,,15.0,Discharged,,Tab. Vitamin C,Ward,,,,,,,,,,,,,,,,,,,,,,advised home quarantine for 14
+,,,,,,,,,,,,,,Tab. B Complex,,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,P1360,20633.0,13/05/2020,,,,,,,,15.0,Discharged,,Tab. Vitamin C,Ward,,,,,,,,,,,,,,,,,,,,,,advised home quarantine for 14
+,,,,,,,,,,,,,,Tab. B Complex,,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,P1361,20634.0,13/05/2020,,,,,,,,15.0,Discharged,,Tab. Vitamin C,Ward,,,,,,,,,,,,,,,,,,,,,,advised home quarantine for 14
+,,,,,,,,,,,,,,Tab. B Complex,,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,P1359,20635.0,13/05/2020,,,,,,,,15.0,Discharged,,Tab. Vitamin C,Ward,,,,,,,,,,,,,,,,,,,,,,advised home quarantine for 14
+,,,,,,,,,,,,,,Tab. B Complex,,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,P1358,20636.0,13/05/2020,,,,,,,,15.0,Discharged,,Tab. Vitamin C,Ward,,,,,,,,,,,,,,,,,,,,,,advised home quarantine for 14
+,,,,,,,,,,,,,,Tab. B Complex,,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,P1627,20637.0,13/05/2020,,,,,,,,15.0,Discharged,,Tab. Vitamin C,Ward,,,,,,,,,,,,,,,,,,,,,,advised home quarantine for 14
+,,,,,,,,,,,,,,Tab. B Complex,,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,P1366,20639.0,13/05/2020,,,,,,,,15.0,Discharged,,Tab. Vitamin C,Ward,,,,,,,,,,,,,,,,,,,,,,advised home quarantine for 14
+,,,,,,,,,,,,,,Tab. B Complex,,,,,,,,,,,,,,,,,,,,,,,
+Gandhi Hospital,,20857.0,18/05/2020,,,,,,,,15.0,Discharged,,Home quarantine for 2 weeks,,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 2 weeks
+Gandhi hospital,P3636,17446.0,2020-06-04 00:00:00,,Yes,,ICU,33.0,Pneumonitis,,33.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,P230,17464.0,2020-05-04 00:00:00,,Yes,,ICU,19.0,Pneumonitis,,37.0,Discharged,,Tab. Multvitamin BD; Tab.Vitamin C BD,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14
+Gandhi hospital,,19697.0,18/04/2020,,Yes,,ICU,25.0,,,25.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,P755,19651.0,17/04/2020,,Yes,,ICU,29.0,"Stemi,Pneumonia",,29.0,Discharged,,,Gandhi Hospital,,,,,No,,,,,,,,,,,,,,,,,
+Gandhi hospital,P398,18785.0,2020-09-04 00:00:00,,No,,PICU,21.0,,,21.0,Discharged,,,Gandhi Hospital,,,,,No,,,,,,,,,,,,,,,,,
+Gandhi hospital,P880,19788.0,20/04/2020,,No,,PICU,15.0,,,15.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,P1909,19940.0,2020-10-05 00:00:00,,No,,PICU,14.0,,,14.0,Discharged,,Syp. Multivitamin OD;,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home isolation for 7
+Gandhi hospital,,19008.0,2020-02-06 00:00:00,,Yes,,ICU,4.0,Pneumonitis,,21.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine upto 8th July
+Gandhi hospital,,19031.0,2020-02-06 00:00:00,,No,,ICU,4.0,,,9.0,Discharged,,,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,
+Gandhi hospital,,19032.0,2020-02-06 00:00:00,,No,,ICU,8.0,,,9.0,Discharged,,Tab. BComplex OD; Tab. Vitamin C OD; Tab. Rantac OD,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 17
+Gandhi hospital,,19097.0,2020-01-06 00:00:00,,No,,ICU,8.0,,,9.0,Discharged,,Tab. B Complex OD; Tab. Vitamin C OD;,Gandhi Hospital,,,,,No,,,,,,,,,,,,,,,,,Home quarantine for 14
+Gandhi hospital,,19119.0,2020-02-06 00:00:00,,No,,ICU,7.0,,,7.0,Discharged,,"Tab.B Complex OD; Tab. Vitamin C OD; 
+Tab. Glimiperide2mg; Tab.Metformin 1000mg; Tab. Olkem 40mg OD; Tab. Ecosprin 75/20mg OD;",Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14
+Gandhi hospital,P768,19673.0,18/04/2020,,No,,PICU,13.0,,,13.0,Discharged,,Tab. Multvitamin OD; Tab. Vitamin C OD;,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14
+Gandhi hospital,P779,19680.0,18/04/2020,,No,,PICU,13.0,,,14.0,Discharged,,Tab. Multvitamin OD; Tab. Vitamin C OD;,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14
+Gandhi hospital,P814,19720.0,18/04/2020,,No,,PICU,26.0,,,26.0,Discharged,,Tab. B Complex OD; Tab. Vitamin C OD;,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14
+Gandhi hospital,P1208,19939.0,2020-10-05 00:00:00,,No,,PICU,15.0,,,15.0,Discharged,,Tab. B Complex OD;,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for-07-
+Gandhi hospital,P1201,19942.0,2020-10-05 00:00:00,,No,,PICU,15.0,,,15.0,Discharged,,Tab. B Complex OD; Syp. Multivitamin OD;,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for-07-
+Gandhi hospital,p1198,19944.0,2020-10-05 00:00:00,,No,,PICU,15.0,,,15.0,Discharged,,Syp. Multivitamin OD;,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for-07-
+Gandhi hospital,P1218,19970.0,2020-10-05 00:00:00,,No,,PICU,15.0,,,15.0,Discharged,,Syp. Multivitamin OD;,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for-07-
+Gandhi hospital,P1230,19980.0,2020-11-05 00:00:00,,No,,PICU,15.0,,,15.0,Discharged,,Syp. Multivitamin OD;,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14
+Gandhi hospital,P1227,19981.0,2020-11-05 00:00:00,,No,,PICU,15.0,,,15.0,Discharged,,Tab. Multvitamin OD; Tab. Vitamin C OD;,Gandhi Hospital,,,,,,,,,,,,,,,,,,,,,,Home quarantine for 14
+Gandhi Hospital,P706,19576.0,16/04/2020,,NO,NO,NO,Not Required,Not Required,Not Required,27.0,Discharged,NO,,Gandhi Hospital,NO,Data Not Avilable,Data Not Avilable,Data Not Avilable,Not Required,Not Required,Not Required,Not Required,Not Required,Not Required,Not Required,Not Required,Not Required,Not Required,Not Required,Not Required,Not Required,Not Required,Not Required,Not Required,Not Required,
+Gandhi Hospital,,18119.0,2020-03-04 00:00:00,,Yes,Yes,Yes,15.0,,Discharged,28.0,Discharged,NO,,Gandhi Hospital,NO,Data Not Avilable,Data Not Avilable,Data Not Avilable,Not Required,Not Required,Not Required,Not Required,Not Required,Not Required,Not Required,Not Required,Not Required,Not Required,Not Required,Not Required,Not Required,Not Required,Not Required,Not Required,Not Required,
+Gandhi Hospital,,20333.0,13/05/2020,,NO,NO,YES,15.0,,(DAMA) Discharged,15.0,(DAMA) Discharged,NO,,Gandhi Hospital,NO,Data Not Avilable,Data Not Avilable,Data Not Avilable,Not Required,Not Required,Not Required,Not Required,Not Required,Not Required,Not Required,Not Required,Not Required,Not Required,Not Required,Not Required,Not Required,Not Required,Not Required,Not Required,Not Required,
+Gandhi Hospital,P-1826,21353.0,23/05/2020,,NO,NO,YES,15.0,,Discharged,31.0,Discharged,NO,,Gandhi Hospital,NO,Data Not Avilable,Data Not Avilable,Data Not Avilable,Not Required,Not Required,Not Required,Not Required,Not Required,Not Required,Not Required,Not Required,Not Required,Not Required,Not Required,Not Required,Not Required,Not Required,Not Required,Not Required,Not Required,Advised Strict home quarantine for 14 .

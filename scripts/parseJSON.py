@@ -5,6 +5,7 @@ import pandas as pd
 KEYSPACE = 'dfs'
 DTYPES = {
     'float64': 'float',
+    'int64': 'float',
     'string': 'text',
     'datetime64[ns]': 'timestamp',
     'object' : 'text'
