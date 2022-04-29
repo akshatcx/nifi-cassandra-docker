@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 import sys
 import pandas as pd
-
+import re
 KEYSPACE = 'dfs'
 DTYPES = {
     'float64': 'float',
@@ -11,12 +11,16 @@ DTYPES = {
     'object' : 'text'
 }
 
-# df = pd.read_json("../sample_files/monthly_json.json")
+specialChars = '[?*()&-/: ]'
+# df = pd.read_csv("../sample_files/Patient_Info.csv")
 df = pd.read_json(sys.stdin)
-tableName = str(sys.argv[1]).split('.')[0]
+tableName = re.sub(specialChars ,'_' ,str(sys.argv[1]).split('.')[0]) 
 
 maxUniqueNumber = 0
 maxUniqueColumn = ""
+
+for idx, column in enumerate(df.columns):
+    df.rename (columns={column:re.sub(specialChars ,'_' ,column )},inplace=True)
 
 for column in df:
     if df[column].nunique() > maxUniqueNumber:
@@ -27,7 +31,6 @@ for column in df:
 print(f"CREATE TABLE IF NOT EXISTS {KEYSPACE}.{tableName} ({', '.join([col + ' ' + DTYPES[str(df.dtypes[col])] for col in df.columns])}, PRIMARY KEY ({maxUniqueColumn}));")
 
 # insert rows
-# INSERT INTO dfs.dummy_data (date , precip) VALUES ('1893-01-01' , 1.32);
 def get_values(row):
     values = []
     for col in df.columns:
